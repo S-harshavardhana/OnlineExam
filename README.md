@@ -54,7 +54,6 @@ Functional Specification:
 
 <img src="https://imgur.com/gdsCmoY.png" width=100%>
 
-<img src="https://imgur.com/tReWRcw.png" width=100%>
 
 <b>How to run this project locally</b>
 1. clone this repo to www folder in WAMP software
